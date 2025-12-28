@@ -1,4 +1,4 @@
-Java Group Chat Application
+#Java Group Chat Application
 
 A desktop-based group chat application developed using Core Java, Swing, and Socket Programming.
 The application follows a client–server architecture and enables real-time communication between multiple users over a local network.
